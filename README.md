@@ -1,4 +1,4 @@
 # css_framework
 
-Website latihan materi css Framework
+Website latihan materi javascript
 Andri Kelana Saputra
